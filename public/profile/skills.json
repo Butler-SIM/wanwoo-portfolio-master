@@ -1,0 +1,99 @@
+{
+    "intro": "저는 새로운 것을 배우고 새로운 기술을 실험하는 것을 좋아합니다. 다음은 제가 사용해 본 주요 언어, 기술, 도구 및 플랫폼 입니다:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/dart.png",
+                    "title": "dart"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
+                },
+                {
+                    "icon": "images/skills/spring.png",
+                    "title": "Spring"
+                },
+                {
+                    "icon": "images/skills/spring-boot.jpeg",
+                    "title": "SpringBoot"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/intelij.png",
+                    "title": "InteliJ"
+                },
+                {
+                    "icon": "images/skills/pycharm.png",
+                    "title": "Pycharm"
+                },
+                {
+                    "icon": "images/skills/vscode.jpeg",
+                    "title": "VsCode"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/notion.png",
+                    "title": "Notion"
+                },
+                {
+                    "icon": "images/skills/jira.jpeg",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/slack.png",
+                    "title": "Slack"
+                },
+                {
+                    "icon": "images/skills/github_action.png",
+                    "title": "GitHubAction"
+                }
+            ]
+    }
+]}

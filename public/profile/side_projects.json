@@ -1,0 +1,42 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/sim-pp.png",
+            "title": "포트폴리오",
+            "bodyText": "- React를 사용하여 개발한 포트폴리오\n - React공부 + 포트폴리오 작성용",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Butler-SIM/wanwoo-portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/fff_main.png",
+            "title": "FunnyFunnyFun",
+            "bodyText": "- 유머, 코인관련 커뮤니티 1인 개발\n - FrontEnd : React\n - BackEnd : Django(DRF)\n - 목표 : 커뮤니티 기본 기능 개발 후 개인 암호화폐 지갑을 활용하여 사이트 내 사용가능한 상품(이모티콘, 프로필) 암호화폐 결제기능, \n - 프로젝트 선정이유 : 공부했던 모든 기술들을 적용 하기 위해\n - 2023-08-20 시작 개발중",
+            "links": [
+                {
+                    "text": "상세보기",
+                    "href": "https://winter-thrill-5e3.notion.site/eb47fe0d35f24fb78cf623e6c7bad097?pvs=4"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "JavaScript",
+                "React",
+                "Mysql",
+                "Selenium",
+                "crawling"
+            ]
+        }
+        
+        
+    ]
+}

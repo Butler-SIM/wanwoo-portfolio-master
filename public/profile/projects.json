@@ -1,0 +1,123 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/sf_magazine_main.png",
+            "title": "슈퍼파인 매거진",
+            "bodyText": "- 가치소비 확산을 위한 커뮤니티\n - Django, DRF를 사용한 API개발\n -  슈퍼파인 매거진 데이터베이스 설계\n - AWS ECS를 사용한 서비스 운영\n - Celery + RqbbitMQ를 사용한 이메일 서비스",
+            "links": [
+                {
+                    "text": "상세보기",
+                    "href": "https://winter-thrill-5e3.notion.site/275327255a52490cb12eff0ba0919e0f?pvs=4"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "DRF",
+                "Celery",
+                "RabbitMQ",
+                "AWS(ECR, ECS, RDS, Route53, S3)",
+                "MySql"
+            ]
+        },
+        {
+            "image" : "images/projects/sf_market_main.png",
+            "title": "슈퍼파인 마켓",
+            "bodyText": "- 낭비없는 삶 1인분 식재료 소분 마켓\n - Django, DRF를 사용한 API개발\n -  슈퍼파인 마켓 데이터베이스 설계\n - AWS ECS를 사용한 서비스 운영\n - 관리자 페이지 이커머스 핵심 기능개발(상품관리, 쿠폰, 통계 등등)",
+            "links": [
+                {
+                    "text": "상세보기",
+                    "href": "https://winter-thrill-5e3.notion.site/2d5721e1acc64d9f8befb7af167b9d92?pvs=4"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "DRF",
+                "Celery",
+                "RabbitMQ",
+                "AWS(ECR, ECS, RDS, Route53, S3)",
+                "MySql"
+            ]
+        },
+        {
+            "image" : "images/projects/pleasy_main.png",
+            "title": "Pleasy",
+            "bodyText": "- 편리하고 개인정보 보호가능한 출차앱 Pleasy\n - Django, DRF를 사용한 API개발\n - Pleasy 데이터베이스 설계\n - AWS EC2, GitHubAction을 사용한 서비스 운영\n - Django Channels + WebSocket을 사용한 채팅 서버 개발,\n - OCR기능을 활용한 차량 번호판 인식\n - Django Templates +  JavaScript를 사용한 웹 개발",
+            "links": [
+                {
+                    "text": "상세보기",
+                    "href": "https://winter-thrill-5e3.notion.site/Pleasy-a004dbe1b6e549b39dc4fe8fc9a7d0d1?pvs=4"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "DRF",
+                "Celery",
+                "RabbitMQ",
+                "AWS(EC2, RDS, Route53, S3)",
+                "MySql",
+                "GutHubAction"
+            ]
+        },
+        {
+            "image" : "images/projects/hdmh.png",
+            "title": "현대문학",
+            "bodyText": "- 현대문학의 근간\n - Java, Spring, JS를 사용한 웹 개발\n - 유저화면 전체 개발\n - 주요기능(전자책 뷰어, 소셜 로그인, 결제, 정기결제)\n ",
+            "links": [
+                {
+                    "text": "상세보기",
+                    "href": "https://winter-thrill-5e3.notion.site/a1f4eeb4de1247189188e281d2c3cec3?pvs=4"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "SpringBoot",
+                "JavaScript",
+                "JQuery",
+                "AWS(EC2)",
+                "MySql"
+            ]
+        },
+        {
+            "image" : "images/projects/tk_main.png",
+            "title": "태경그룹",
+            "bodyText": "- 태경 그룹 그룹사 전체 웹 리뉴얼\n - Java, Spring, JS를 사용한 웹 개발\n - 유저화면 전체 개발\n - 관리자 페이지 전체 개발\n",
+            "links": [
+                {
+                    "text": "상세보기",
+                    "href": "https://winter-thrill-5e3.notion.site/b210c207ac2f4124ab44f3b345a2440b?pvs=4"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Spring",
+                "JavaScript",
+                "JQuery",
+                "AWS(EC2)",
+                "MySql"
+            ]
+        },
+        {
+            "image" : "images/projects/iqos_main.png",
+            "title": "한국 필립모리스",
+            "bodyText": "- 아이코스 렌탈 사이트 개발, 유지보수\n - Java, Spring, JS를 사용한 웹 개발\n - 주요기능(결제, 쿠폰, 관리자 통계, 회원맞춤 알림톡, 상품관리)",
+            "links": [
+                {
+                    "text": "상세보기",
+                    "href": "https://winter-thrill-5e3.notion.site/052251178b534d34828cd6cdfb161fe5?pvs=4"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Spring",
+                "JavaScript",
+                "JQuery",
+                "AWS(EC2)",
+                "MySql"
+            ]
+        }
+        
+    ]
+}
